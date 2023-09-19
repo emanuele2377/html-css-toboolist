@@ -1,0 +1,57 @@
+
+
+.contenitore
+   {
+    
+    padding-top: 70px;
+	padding-left: 400px;
+	background-size: 30%;
+    height: 100px;
+    background-color: whitesmoke;
+	
+}
+
+header {
+	height: 100px;
+	background-size: 30%;
+    background-color: whitesmoke;
+}
+
+#logo {
+	height: 50px;
+	margin-top: 40px;
+    padding-left: 15px; 
+    
+}
+#riga{
+    display: inline;
+    text-align:center;
+    font-size:50px;   
+}
+
+#secondo{
+    display: inline;
+    text-align:center;
+    width: 50px;
+    border: 3px solid #4ea0ff;
+    padding: 5px;
+    margin: 10px;
+    background-color: #4ea0ff;
+    border-radius: 6px 6px 6px 6px;
+       
+}
+
+#terzo{
+    display: inline;
+    text-align:center;
+    padding-inline-start: 20px;
+
+    width: 50px;
+    border: 3px solid gray;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 6px 6px 6px 6px;
+
+}
+
+
