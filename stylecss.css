@@ -1,49 +1,47 @@
+.contenitore {
 
-
-.contenitore
-   {
-    
     padding-top: 70px;
-	padding-left: 400px;
-	background-size: 30%;
+    padding-left: 400px;
+    background-size: 30%;
     height: 100px;
     background-color: whitesmoke;
-	
+
 }
 
 header {
-	height: 100px;
-	background-size: 30%;
+    height: 100px;
+    background-size: 30%;
     background-color: whitesmoke;
 }
 
 #logo {
-	height: 50px;
-	margin-top: 40px;
-    padding-left: 15px; 
-    
-}
-#riga{
-    display: inline;
-    text-align:center;
-    font-size:50px;   
+    height: 50px;
+    margin-top: 40px;
+    padding-left: 15px;
+
 }
 
-#secondo{
+#riga {
     display: inline;
-    text-align:center;
+    text-align: center;
+    font-size: 50px;
+}
+
+#secondo {
+    display: inline;
+    text-align: center;
     width: 50px;
     border: 3px solid #4ea0ff;
     padding: 5px;
     margin: 10px;
     background-color: #4ea0ff;
     border-radius: 6px 6px 6px 6px;
-       
+
 }
 
-#terzo{
+#terzo {
     display: inline;
-    text-align:center;
+    text-align: center;
     padding-inline-start: 20px;
 
     width: 50px;
@@ -51,7 +49,64 @@ header {
     padding: 5px;
     margin: 10px;
     border-radius: 6px 6px 6px 6px;
+}
 
+.q{
+    
+    border: 1px solid #9C72E3;
+    padding: 1px;
+    margin: 1px;
+    background-color:#9C72E3;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.re{
+    
+    border: 1px solid #63BEA9;
+    padding: 1px;
+    margin: 1px;
+    background-color: #63BEA9;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.mo{
+    
+    border: 1px solid #F39C34;
+    padding: 1px;
+    margin: 1px;
+    background-color: #F39C34;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.web{
+    
+    border: 1px solid #D563A0;
+    padding: 1px;
+    margin: 1px;
+    background-color:#D563A0;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.sa{
+    
+    border: 1px solid #B1C729;
+    padding: 1px;
+    margin: 1px;
+    background-color: #B1C729;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.edi{
+    
+    border: 1px solid #4ea0ff;
+    padding: 1px;
+    margin: 1px;
+    background-color: #4ea0ff;
+    border-radius: 3px 3px 3px 3px;
+}
+
+.stile {
+      font-family: Verdana,  Tahoma, sans-serif;
 }
 
 
